@@ -2317,6 +2317,7 @@
     {
     "name": "canReachUpperUndeadBurg",
     "access_rules": [
+        "@canReachUpperUndeadBurgHellkiteBridge",
         "@canReachUpperUndeadBurgFog",
         "@canReachWatchtowerBasement"
     ]},
